@@ -1,0 +1,6 @@
+projectKey=Primer_Proyecto
+serverUrl=http://localhost:8081
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:8081/dashboard?id=Primer_Proyecto
+ceTaskId=AXWezt3coSCTGaDxzdT6
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AXWezt3coSCTGaDxzdT6
